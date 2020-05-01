@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Belajar-SPA-React/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Belajar-SPA-React/static/js/main.841afe76.chunk.js",
+    "main.js.map": "/Belajar-SPA-React/static/js/main.841afe76.chunk.js.map",
+    "runtime-main.js": "/Belajar-SPA-React/static/js/runtime-main.e5435e2e.js",
+    "runtime-main.js.map": "/Belajar-SPA-React/static/js/runtime-main.e5435e2e.js.map",
+    "static/js/2.49cf159e.chunk.js": "/Belajar-SPA-React/static/js/2.49cf159e.chunk.js",
+    "static/js/2.49cf159e.chunk.js.map": "/Belajar-SPA-React/static/js/2.49cf159e.chunk.js.map",
+    "index.html": "/Belajar-SPA-React/index.html",
+    "precache-manifest.71f1da317348e8813b8381f8bd17cc97.js": "/Belajar-SPA-React/precache-manifest.71f1da317348e8813b8381f8bd17cc97.js",
+    "service-worker.js": "/Belajar-SPA-React/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Belajar-SPA-React/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.49cf159e.chunk.js.LICENSE.txt": "/Belajar-SPA-React/static/js/2.49cf159e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5435e2e.js",
+    "static/js/2.49cf159e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.841afe76.chunk.js"
+  ]
+}
